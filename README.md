@@ -23,6 +23,8 @@ My decision to exclusively utilize Azure services stems from a deeply personal m
 
 ## Architecture Diagram
 
+<img width="535" alt="spotify" src="https://github.com/SyakeerRahman/Data_Engineer_Project_An_End_to_End_Azure_Data_Engineering_Spotify_Music_Database/assets/105381652/823e03be-a99a-416f-bd67-e4e5cfdd3305">
+
 The architecture diagram illustrates the flow and integration of various components in the ETL pipeline.
 
 ER Diagram
