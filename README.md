@@ -421,3 +421,8 @@ In achieving my goal of creating a project entirely within the Azure ecosystem, 
 ## Resources
 
 1. https://developer.spotify.com/documentation/web-api
+2. https://learn.microsoft.com/en-us/azure/data-factory/
+3. https://www.youtube.com/watch?v=WAmEZBEeNmg&t=567s
+4. https://techcommunity.microsoft.com/t5/azure-paas-blog/mount-adls-gen2-or-blob-storage-in-azure-databricks/ba-p/3802926
+5. https://spotipy.readthedocs.io/en/2.22.1/#
+6. https://www.udemy.com/course/learn-azure-data-factory-from-scratch/
